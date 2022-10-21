@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### Participated in worldskills COMPETITION 2022 SPECIAL EDITION
-![worldskills-competition-2022-special-edition-champion-mobile-applications-development (4)](https://user-images.githubusercontent.com/70731695/197085025-f911a370-7141-4190-adc2-c9c17601318a.png)
+### worldskills COMPETITION 2022 SPECIAL EDITION
+![worldskills-competition-2022-special-edition-champion-mobile-applications-development (3)](https://user-images.githubusercontent.com/70731695/197085267-c11798f9-1f15-407c-90d4-aaaa4391aaaa.png)
 
 <!--
 **SonoD206/SonoD206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
