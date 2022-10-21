@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Participated in worldskills COMPETITION 2022 SPECIAL EDITION
+![worldskills-competition-2022-special-edition-champion-mobile-applications-development (4)](https://user-images.githubusercontent.com/70731695/197085025-f911a370-7141-4190-adc2-c9c17601318a.png)
+
 <!--
 **SonoD206/SonoD206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +24,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SonoD206&theme=github_dark" />
 </a>
-
--- worldskills COMPETITION 2022 SPECIAL EDITION 
-![worldskills-competition-2022-special-edition-champion-mobile-applications-development](https://user-images.githubusercontent.com/70731695/197084267-3fd0cf2a-2a84-47f8-83ce-330f481647e6.png)
